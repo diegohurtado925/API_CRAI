@@ -14,7 +14,8 @@ const users = [
     { carnet: "00034124", pin: "123456", name: "Diego Hurtado", career: "Ingeniería Informática" },
     { carnet: "00042124", pin: "123456", name: "Bianca Luna", career: "Ingeniería Informática" },
     { carnet: "00183224", pin: "123456", name: "Ana Ramirez", career: "Ingeniería en Informática" },
-    { carnet: "00047224", pin: "123456", name: "Rafael Rubio", career: "Ingeniería en Informática" }
+    { carnet: "00047224", pin: "123456", name: "Rafael Rubio", career: "Ingeniería en Informática" },
+    { carnet: "mjzaldana", pin: "123456", name: "Mauricio Zaldaña", career: "Ingeniería en Informática" }
 ];
 
 const studyRooms = [
